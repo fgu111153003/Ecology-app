@@ -232,8 +232,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.0000153, y: -8.5}
-  m_SizeDelta: {x: 200, y: 70}
+  m_AnchoredPosition: {x: -8.696227, y: -8.5}
+  m_SizeDelta: {x: 226.7576, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &96458517
 MonoBehaviour:
@@ -256,12 +256,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 36
-    m_FontStyle: 1
+    m_Font: {fileID: 12800000, guid: e598971ae28ca124cbdf59c6cbc8c18b, type: 3}
+    m_FontSize: 50
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
-    m_MaxSize: 40
+    m_MaxSize: 50
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -791,8 +791,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -85, y: -416.53638}
-  m_SizeDelta: {x: 480, y: 537.0727}
+  m_AnchoredPosition: {x: -85, y: -435}
+  m_SizeDelta: {x: 480, y: 615.073}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &958997667
 MonoBehaviour:
@@ -815,9 +815,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 32
-    m_FontStyle: 1
+    m_Font: {fileID: 12800000, guid: e598971ae28ca124cbdf59c6cbc8c18b, type: 3}
+    m_FontSize: 40
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 40
@@ -827,7 +827,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7DA0\u8336\r\n\r\n\u4E00\u3001\u6BBA\u9752\r\n\r\n\u4E8C\u3001\u63C9\u637B\uFF1A\u63C9\u8336\r\n\r\n\u4E09\u3001\u521D\u4E7E\r\n\r\n\u56DB\u3001\u5E03\u63C9\r\n\n\u4E94\u3001\u7092\u8336\uFF1A\u624B\u5DE5\r\n\r\n\u516D\u3001\u70D8\u7119\uFF1A45\u5206\u9418"
+  m_Text: "\u7DA0\u8336\r\n\u4E00\u3001\u6BBA\u9752\r\n\r\n\u4E8C\u3001\u63C9\u637B\uFF1A\u63C9\u8336\r\n\r\n\u4E09\u3001\u521D\u4E7E\r\n\r\n\u56DB\u3001\u5E03\u63C9\r\n\n\u4E94\u3001\u7092\u8336\uFF1A\u624B\u5DE5\r\n\r\n\u516D\u3001\u70D8\u7119\uFF1A45\u5206\u9418"
 --- !u!222 &958997668
 CanvasRenderer:
   m_ObjectHideFlags: 0
