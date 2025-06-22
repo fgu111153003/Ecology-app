@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Ecology_app.sln"
+    "dotnet.defaultSolution": "Ecology-app.sln"
 }
